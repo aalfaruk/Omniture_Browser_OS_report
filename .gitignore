@@ -7,7 +7,6 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
-.idea/workspace.xml
 .idea/
 Browser_OS compatibility.xls
 Omniture_Monthly_Report_All_Banners.iml
